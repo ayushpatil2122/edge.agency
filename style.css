@@ -624,11 +624,13 @@ body {
 .blue-div-elem h4 {
     font-size: 1.4vw;
     font-weight: 500;
+    text-transform: uppercase;
 }
 
 .blue-div-elem p {
     width: 40%;
     font-size: 0.8vw;
+    text-transform: uppercase;
 }
 
 #page5 {
